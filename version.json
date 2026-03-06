@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "zip_url": "https://github.com/MetalDudesMusic/TQYT/releases/latest/download/plugin.video.torquemotors.zip",
+  "changelog": "Initial release with YouTube playlist support, autoplay, cache management and GitHub auto-update.",
+  "min_kodi_version": "21.0",
+  "release_date": "2026-03-06"
+}
