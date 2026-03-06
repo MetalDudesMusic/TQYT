@@ -1,0 +1,55 @@
+name: Build and Release Addon
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'plugin.video.torquemotors/**'
+      - 'version.json'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Read version from version.json
+        id: get_version
+        run: |
+          VERSION=$(python3 -c "import json; d=json.load(open('version.json')); print(d['version'])")
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+          echo "Building version: $VERSION"
+
+      - name: Build addon zip
+        run: |
+          zip -r plugin.video.torquemotors.zip plugin.video.torquemotors/
+          echo "Zip built:"
+          ls -lh plugin.video.torquemotors.zip
+
+      - name: Delete existing release (if any)
+        run: |
+          gh release delete "v${{ steps.get_version.outputs.VERSION }}" --yes 2>/dev/null || true
+          git push --delete origin "v${{ steps.get_version.outputs.VERSION }}" 2>/dev/null || true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create GitHub Release
+        run: |
+          CHANGELOG=$(python3 -c "import json; d=json.load(open('version.json')); print(d.get('changelog',''))")
+          gh release create "v${{ steps.get_version.outputs.VERSION }}" \
+            plugin.video.torquemotors.zip \
+            --title "Torque Motors Youtube v${{ steps.get_version.outputs.VERSION }}" \
+            --notes "$CHANGELOG" \
+            --latest
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summary
+        run: |
+          echo "✅ Released v${{ steps.get_version.outputs.VERSION }}" >> $GITHUB_STEP_SUMMARY
+          echo "📦 Download: https://github.com/MetalDudesMusic/TQYT/releases/latest/download/plugin.video.torquemotors.zip" >> $GITHUB_STEP_SUMMARY
