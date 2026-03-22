@@ -1,0 +1,565 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Summernats[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@summernats/streams"
+            ],
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Summernats_logo.png/330px-Summernats_logo.png",
+            "fanart": "https://www.streetmachine.com.au/wp-content/uploads/2023/07/1tufhg-burnout-summernats.jpg",
+            "summary": "[COLORlime]Start the new year in top gear at Australia's biggest horsepower party![/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Red CentreNATS[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@redcentrenats/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Red CentreNATS[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Rockynats[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@rockynats/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Rockynats[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Motorvation[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@motorvation/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Motorvation[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Powercruise[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@powercruise/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Powercruise[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Street Machine Drag Challenge[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@streetmachinemag/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Street Machine Drag Challenge[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - MotorEx[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@motorexau/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - MotorEx[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - V8 Sleuth Events[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@v8sleuth/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - V8 Sleuth Events[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Gazzanats[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@gazzanats/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Gazzanats[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Brashernats[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@brashernats/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Brashernats[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORlime]Australia - Roll Racing[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@rollracing/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORlime]Australia - Roll Racing[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - GRIDLIFE[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@GRIDLIFE/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - GRIDLIFE[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Hot Rod Drag Week[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@hotrodmagazine/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Hot Rod Drag Week[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - TX2K[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@1320video/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - TX2K[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Street Car Takeover[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@streetcartakeover/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Street Car Takeover[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Import Face-Off[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@importfaceoff/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Import Face-Off[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Hoonigan[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@hoonigan/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Hoonigan[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - LS Fest[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@holleyperformance/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - LS Fest[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Sick Week[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@sickthemagazine/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Sick Week[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - No Prep Kings[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@discovery/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - No Prep Kings[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORred]USA - Formula Drift[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@FormulaDRIFT/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORred]USA - Formula Drift[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Goodwood Festival of Speed[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@GoodwoodRoadandRacing/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Goodwood Festival of Speed[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Goodwood Revival[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@GoodwoodRoadandRacing/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Goodwood Revival[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Santa Pod Raceway[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@SantaPodTV/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Santa Pod Raceway[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Players Classic[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@playersshow/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Players Classic[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Ultimate Dubs[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@UltimateDubs/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Ultimate Dubs[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]Europe - Gatebil[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@GatebilOfficial/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]Europe - Gatebil[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]Europe - XS Carnight[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@xscarnight/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]Europe - XS Carnight[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]Europe - Essen Motor Show[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@essenmotorshow/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]Europe - Essen Motor Show[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]Europe - Raceism[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@raceism/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]Europe - Raceism[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORorange]UK - Modified Nationals[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@modifiednationals/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORorange]UK - Modified Nationals[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORpink]Japan - D1 Grand Prix[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@D1GPmovie/live"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORpink]Japan - D1 Grand Prix[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORpink]Japan - Tokyo Auto Salon[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@tokyoautosalon/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORpink]Japan - Tokyo Auto Salon[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORpink]Japan - Option / Hot Version[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@videooption/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORpink]Japan - Option / Hot Version[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORpink]Japan - Mooneyes Yokohama[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@mooneyesco/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORpink]Japan - Mooneyes Yokohama[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORpink]Japan - Ebisu Drift Matsuri[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@ebisucircuit/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORpink]Japan - Ebisu Drift Matsuri[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORcyan]New Zealand - 4&Rotary Nationals[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@4androtary/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORcyan]New Zealand - 4&Rotary Nationals[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORcyan]New Zealand - Leadfoot Festival[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@leadfootfestival/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORcyan]New Zealand - Leadfoot Festival[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORcyan]New Zealand - CRC Speedshow[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@speedshow/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORcyan]New Zealand - CRC Speedshow[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Canada - Rocky Mountain Nationals[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@rockymountainnationals/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Canada - Rocky Mountain Nationals[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Canada - Import Expo[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@importexpo/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Canada - Import Expo[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]UAE - Custom Show Emirates[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@customshowemirates/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]UAE - Custom Show Emirates[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]UAE - Roll Racing Dubai[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@rollracingdubai/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]UAE - Roll Racing Dubai[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]UAE - Dubai Motor Show[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@dubaimotorshow/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]UAE - Dubai Motor Show[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]South Africa - Festival of Motoring[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@festivalofmotoring/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]South Africa - Festival of Motoring[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]South Africa - Spin City[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@spincity/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]South Africa - Spin City[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Brazil - Race Wars[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@racewarsbr/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Brazil - Race Wars[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Brazil - Hot Rod Brazil[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@hotrodbrazil/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Brazil - Hot Rod Brazil[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Global - 1320Video[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@1320video/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Global - 1320Video[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Global - Hoonigan[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@hoonigan/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Global - Hoonigan[/COLOR]",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "[COLORwhite]Global - That Racing Channel[/COLOR]",
+            "link": [
+                "https://www.youtube.com/@ThatRacingChannel/videos"
+            ],
+            "thumbnail": "https://i.imgur.com/placeholder.png",
+            "fanart": "https://i.imgur.com/placeholder.jpg",
+            "summary": "[COLORwhite]Global - That Racing Channel[/COLOR]",
+            "pack": "true"
+        }
+    ]
+}
