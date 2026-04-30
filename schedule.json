@@ -1,0 +1,484 @@
+{
+    "items": [
+        {
+            "type": "item",
+            "title": "Fri 01 May 18:10  |  WorldWCR: Balaton Park - Free Practice",
+            "link": [
+                "https://pitsport.live/watch/86a0cd07-3616-481d-910c-4b933af0c170"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Fri 01 May 18:10 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Fri 01 May 18:50  |  WorldSBK: Balaton Park - Free Practice 1",
+            "link": [
+                "https://pitsport.live/watch/53d547da-feae-4435-9de3-f62cf5087f4b"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Fri 01 May 18:50 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Fri 01 May 19:50  |  Supersport World Championship: Balaton Park - Free Practice",
+            "link": [
+                "https://pitsport.live/watch/e7eb3566-0752-4985-b875-5f658523be2e"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Fri 01 May 19:50 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Fri 01 May 22:40  |  WorldWCR: Balaton Park - Superpole",
+            "link": [
+                "https://pitsport.live/watch/6d01b0e0-296c-4cfe-873f-bc02c42572e7"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Fri 01 May 22:40 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Fri 01 May 23:30  |  WorldSBK: Balaton Park - Free Practice 2",
+            "link": [
+                "https://pitsport.live/watch/12bec843-7648-4c51-98c3-0d36537b2493"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Fri 01 May 23:30 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 00:00  |  F2: Miami Int. Autodrome - Free Practice",
+            "link": [
+                "https://pitsport.live/watch/bb5aff81-4b66-42d0-ba03-f1c9c7e59a49"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 00:00 — F2",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 00:30  |  Formula E: Berlin Tempelhof Airport - Free Practice 1",
+            "link": [
+                "https://pitsport.live/watch/8c3eeb59-cfb4-4a31-9900-e1e333311c2d"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 00:30 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 00:30  |  Supersport World Championship: Balaton Park - Superpole",
+            "link": [
+                "https://pitsport.live/watch/bce66370-fec0-4ea0-bece-317346716e24"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 00:30 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 03:00  |  F1: Miami Int. Autodrome - Free Practice",
+            "link": [
+                "https://pitsport.live/watch/2d6430d6-1364-47c1-b34b-8447271c5474"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 03:00 — F1",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 05:00  |  NASCAR Truck Series: Texas Motor Speedway - Free Practice / Qualifying",
+            "link": [
+                "https://pitsport.live/watch/96624048-1da5-4fa0-b089-f7dd833a6210"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 05:00 — NASCAR Truck Series",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 05:00  |  F2: Miami Int. Autodrome - Qualifying",
+            "link": [
+                "https://pitsport.live/watch/a6f2e541-5292-4d20-a32f-0f8015d7a9af"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 05:00 — F2",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 10:30  |  NASCAR Truck Series: Texas Motor Speedway - Race: SpeedyCash.com 250",
+            "link": [
+                "https://pitsport.live/watch/7b546925-9e13-4838-adae-8bebded5577f"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 10:30 — NASCAR Truck Series",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 17:30  |  WorldWCR: Balaton Park - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/cb549272-677b-4254-840d-962bfa266492"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 17:30 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 17:50  |  Supersport World Championship: Balaton Park - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/3c43c9b8-5724-48da-bdd7-2a975d9f87c9"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 17:50 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 18:00  |  Formula E: Berlin Tempelhof Airport - Free Practice 2",
+            "link": [
+                "https://pitsport.live/watch/982095be-5c06-4882-92d3-9fa5b8680b8b"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 18:00 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 18:10  |  WorldSBK: Balaton Park - Free Practice 3",
+            "link": [
+                "https://pitsport.live/watch/2e53eb4f-ec0a-41be-bbc4-b152b7247b2e"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 18:10 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 19:45  |  WorldSBK: Balaton Park - Superpole",
+            "link": [
+                "https://pitsport.live/watch/c3c4fa60-d019-4107-a950-0fc703ae045a"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 19:45 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 20:10  |  Formula E: Berlin Tempelhof Airport - Qualifying 1",
+            "link": [
+                "https://pitsport.live/watch/8a3999ec-6690-4556-a0bb-61d068f3ad7f"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 20:10 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 21:30  |  WorldWCR: Balaton Park - Race 1",
+            "link": [
+                "https://pitsport.live/watch/eb1d0d7a-3157-46cd-99a7-1b32785b24b2"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 21:30 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sat 02 May 22:30  |  Supersport World Championship: Balaton Park - Race 1",
+            "link": [
+                "https://pitsport.live/watch/3e9f4f9b-d4b0-41ee-9c44-072f78d54240"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sat 02 May 22:30 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 00:00  |  WorldSBK: Balaton Park - Race 1",
+            "link": [
+                "https://pitsport.live/watch/19248a4e-a5e8-4eef-8395-aa61a32ec663"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 00:00 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 00:30  |  F2: Miami Int. Autodrome - Sprint Race",
+            "link": [
+                "https://pitsport.live/watch/e0f223d2-96d1-4051-a3e2-5c3e22bbb613"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 00:30 — F2",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 00:35  |  Formula E: Berlin Tempelhof Airport - Race 1: Berlin E-Prix",
+            "link": [
+                "https://pitsport.live/watch/a1c20b61-ae3e-4ffa-959e-653aa980de9a"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 00:35 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 02:30  |  F1: Miami Int. Autodrome - Sprint",
+            "link": [
+                "https://pitsport.live/watch/23d2626c-0bbc-4c27-8d52-78feb5844c7f"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 02:30 — F1",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 03:00  |  NASCAR Cup Series: Texas Motor Speedway - Free Practice / Qualifying",
+            "link": [
+                "https://pitsport.live/watch/60f9bc60-0adf-4084-b65f-ee1258457e28"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 03:00 — NASCAR Cup Series",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 06:00  |  NASCAR O&#x27;Reilly Auto Parts Series: Texas Motor Speedway - Race: Andys Frozen Custard 340",
+            "link": [
+                "https://pitsport.live/watch/cc0455c7-f0fc-4a2a-8fec-8dc6d5c6da05"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 06:00 — NASCAR O&#x27;Reilly Auto Parts Series",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 06:30  |  F1: Miami Int. Autodrome - Qualifying",
+            "link": [
+                "https://pitsport.live/watch/409253e1-af15-4df1-83de-4628a0b4d191"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 06:30 — F1",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 08:45  |  IMSA: Laguna Seca - Qualifying",
+            "link": [
+                "https://pitsport.live/watch/9944b7ce-8813-4e61-b9c1-1b7d4b22a01e"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 08:45 — IMSA",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 09:30  |  AMA Supercross: Empower Field at Mile High - Race: Denver",
+            "link": [
+                "https://pitsport.live/watch/153a696f-941c-4757-888f-d19872beb740"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 09:30 — AMA Supercross",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 12:00  |  Super GT: Fuji Speedway - Free Practice",
+            "link": [
+                "https://pitsport.live/watch/9545d218-a99d-4acf-b7ab-02909cd19db7"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 12:00 — Super GT",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 15:50  |  Super GT: Fuji Speedway - Qualifying",
+            "link": [
+                "https://pitsport.live/watch/2d4c1e33-8146-4400-9509-d0b219767a3b"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 15:50 — Super GT",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 17:30  |  WorldWCR: Balaton Park - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/872d032b-7b5f-46b3-997d-6dcef90c70ed"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 17:30 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 17:50  |  WorldSBK: Balaton Park - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/8394a466-18d1-475e-a6d3-6889b2f42970"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 17:50 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 18:00  |  Formula E: Berlin Tempelhof Airport - Free Practice 3",
+            "link": [
+                "https://pitsport.live/watch/d954eb12-e27c-417d-bf5e-7d913ab664f3"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 18:00 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 18:10  |  Supersport World Championship: Balaton Park - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/debdd57b-f3a5-47c6-af1a-08d82f72f39c"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 18:10 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 19:40  |  WorldSBK: Balaton Park - Superpole Race",
+            "link": [
+                "https://pitsport.live/watch/3452e1bc-df77-45b9-8f0b-a34f9568bc1b"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 19:40 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 20:10  |  Formula E: Berlin Tempelhof Airport - Qualifying 2",
+            "link": [
+                "https://pitsport.live/watch/1000de6a-8579-47e8-a35f-3ddb9b2c28e9"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 20:10 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 21:30  |  WorldWCR: Balaton Park - Race 2",
+            "link": [
+                "https://pitsport.live/watch/a8719bb0-2219-447b-8bb2-2a934dac6501"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 21:30 — WorldWCR",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Sun 03 May 22:30  |  Supersport World Championship: Balaton Park - Race 2",
+            "link": [
+                "https://pitsport.live/watch/4e9ee5a8-2357-44fd-a1f8-84cec7a17951"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Sun 03 May 22:30 — Supersport World Championship",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 00:00  |  WorldSBK: Balaton Park - Race 2",
+            "link": [
+                "https://pitsport.live/watch/a7ebc231-daa9-4218-85c4-419e52680293"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 00:00 — WorldSBK",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 00:35  |  Formula E: Berlin Tempelhof Airport - Race 2: Berlin E-Prix",
+            "link": [
+                "https://pitsport.live/watch/cbc6f4e8-3ab9-4d20-adf8-f27ac206b161"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 00:35 — Formula E",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 03:00  |  F2: Miami Int. Autodrome - Feature Race",
+            "link": [
+                "https://pitsport.live/watch/42d320d9-1f28-4e22-97dc-438b5c7deecb"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 03:00 — F2",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 06:00  |  NASCAR Cup Series: Texas Motor Speedway - Race: Würth 400",
+            "link": [
+                "https://pitsport.live/watch/f46d1d0e-71f8-4aee-837f-fbf0120ffee6"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 06:00 — NASCAR Cup Series",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 06:30  |  F1: Miami Int. Autodrome - Race: Miami Grand Prix",
+            "link": [
+                "https://pitsport.live/watch/9d13d765-1417-4a7b-b4b5-79ffccfa1735"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 06:30 — F1",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 06:30  |  IMSA: Laguna Seca - Race: Monterey SportsCar Championship",
+            "link": [
+                "https://pitsport.live/watch/0b76273e-d530-4e86-b3c9-3c5febff6f48"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 06:30 — IMSA",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 14:00  |  Super GT: Fuji Speedway - Warm-Up",
+            "link": [
+                "https://pitsport.live/watch/659852ad-1ac2-46ee-8942-998f6da0fcf2"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 14:00 — Super GT",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "Mon 04 May 15:00  |  Super GT: Fuji Speedway - Race: Fuji GT 3 Hours Race",
+            "link": [
+                "https://pitsport.live/watch/f1f827b2-3dbd-41ff-83bb-2671f2bcc7a4"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "Mon 04 May 15:00 — Super GT",
+            "pack": "true"
+        },
+        {
+            "type": "item",
+            "title": "F1: Miami Int. Autodrome - Sprint Qualifying",
+            "link": [
+                "https://pitsport.live/watch/fa050573-4535-4ad4-9bd1-5aa83b4f86d1"
+            ],
+            "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/icon.png",
+            "summary": "F1",
+            "pack": "true"
+        }
+    ]
+}
